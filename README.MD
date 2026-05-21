@@ -14,7 +14,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [✓] CountEvens (`O(N)` Time / `O(1)` Space)
   - [✓] CountPositives (`O(N)` Time / `O(1)` Space)
   - [✓] FindMaximum (`O(N)` Time / `O(1)` Space)
-  - [ ] FindMinimum
+  - [✓] FindMinimum (`O(N)` Time / `O(1)` Space)
   - [ ] FirstIndexSearch
   - [ ] FrequencyCount
   - [ ] MaxDifference
