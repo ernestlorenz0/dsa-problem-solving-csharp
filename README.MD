@@ -3,7 +3,7 @@
 My practical journey mastering Data Structures and Algorithms and Problem Solving from scratch using C# scripts (.csx). 
 
 ## 📊 Progress Tracker
-- **Total Problems Solved:** 7 / 10 (Day 1)
+- **Total Problems Solved:** 10 / 10 (Day 1)
 - **Focus:** Brute-force logic first, optimizing later.
 
 ## 🗺️ Repository Map
@@ -18,5 +18,5 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] FirstIndexSearch (`O(N)` Time / `O(1)` Space)
   - [x] FrequencyCount (`O(N)` Time / `O(1)` Space)
   - [x] MaxDifference (`O(N)` Time / `O(1)` Space)
-  - [ ] SearchElement
-  - [ ] SumOfElements
+  - [x] SearchElement (`O(N)` Time / `O(1)` Space)
+  - [x] SumOfElements (`O(N)` Time / `O(1)` Space)
