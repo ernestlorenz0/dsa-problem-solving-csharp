@@ -17,6 +17,6 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] FindMinimum (`O(N)` Time / `O(1)` Space)
   - [x] FirstIndexSearch (`O(N)` Time / `O(1)` Space)
   - [x] FrequencyCount (`O(N)` Time / `O(1)` Space)
-  - [ ] MaxDifference
+  - [x] MaxDifference (`O(N)` Time / `O(1)` Space)
   - [ ] SearchElement
   - [ ] SumOfElements
