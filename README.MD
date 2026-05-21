@@ -3,7 +3,7 @@
 My practical journey mastering Data Structures and Algorithms and Problem Solving from scratch using C# scripts (.csx). 
 
 ## 📊 Progress Tracker
-- **Total Problems Solved:** 1 / 10 (Day 1)
+- **Total Problems Solved:** 2 / 10 (Day 1)
 - **Focus:** Brute-force logic first, optimizing later.
 
 ## 🗺️ Repository Map
@@ -11,7 +11,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
 ### 📁 01_Arrays
 * **Day 1: Linear Traversal Drills**
   - [✓] ConditionalSum (`O(N)` Time / `O(1)` Space)
-  - [ ] CountEvens
+  - [✓] CountEvens (`O(N)` Time / `O(1)` Space)
   - [ ] CountPositives
   - [ ] FindMaximum
   - [ ] FindMinimum
