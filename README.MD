@@ -30,6 +30,6 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] 05_FindFirstPositive (`O(N)` Time / `O(1)` Space)
   - [x] 06_FindLastNegative (`O(N)` Time / `O(1)` Space)
   - [x] 07_CheckAllPositive (`O(N)` Time / `O(1)` Space)
-  - [ ] 08_CheckAnyNegative (`O(N)` Time / `O(1)` Space)
+  - [x] 08_CheckAnyNegative (`O(N)` Time / `O(1)` Space)
   - [x] 09_FrequencyOfEvens (`O(N)` Time / `O(1)` Space)
   - [ ] 10_ConditionalMax (`O(N)` Time / `O(1)` Space)
