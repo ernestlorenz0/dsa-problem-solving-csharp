@@ -3,7 +3,7 @@
 My practical journey mastering Data Structures and Algorithms and Problem Solving from scratch using C# scripts (.csx). 
 
 ## 📊 Progress Tracker
-- **Total Problems Solved:** 7 / 10 (Day 1)
+- **Total Problems Solved:** 10 / 10 (Day 1)
 - **Focus:** Brute-force logic first, optimizing later.
 
 ## 🗺️ Repository Map
@@ -18,5 +18,18 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] FirstIndexSearch (`O(N)` Time / `O(1)` Space)
   - [x] FrequencyCount (`O(N)` Time / `O(1)` Space)
   - [x] MaxDifference (`O(N)` Time / `O(1)` Space)
-  - [ ] SearchElement
-  - [ ] SumOfElements
+  - [x] SearchElement (`O(N)` Time / `O(1)` Space)
+  - [x] SumOfElements (`O(N)` Time / `O(1)` Space)
+
+### 📁 Day2 (Lists Collection)
+* **Day 2: Linear Traversal Drills (Lists)**
+  - [ ] 01_SumOfEvens (`O(N)` Time / `O(1)` Space)
+  - [ ] 02_SumOfOdds (`O(N)` Time / `O(1)` Space)
+  - [ ] 03_CountGreaterThanX (`O(N)` Time / `O(1)` Space)
+  - [ ] 04_CountLessThanX (`O(N)` Time / `O(1)` Space)
+  - [ ] 05_FindFirstPositive (`O(N)` Time / `O(1)` Space)
+  - [ ] 06_FindLastNegative (`O(N)` Time / `O(1)` Space)
+  - [ ] 07_CheckAllPositive (`O(N)` Time / `O(1)` Space)
+  - [ ] 08_CheckAnyNegative (`O(N)` Time / `O(1)` Space)
+  - [ ] 09_FrequencyOfEvens (`O(N)` Time / `O(1)` Space)
+  - [ ] 10_ConditionalMax (`O(N)` Time / `O(1)` Space)
