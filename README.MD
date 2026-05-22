@@ -25,7 +25,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
 * **Day 2: Linear Traversal Drills (Lists)**
   - [x] SumOfEvens (`O(N)` Time / `O(1)` Space)
   - [x] SumOfOdds (`O(N)` Time / `O(1)` Space)
-  - [ ] CountGreaterThanX (`O(N)` Time / `O(1)` Space)
+  - [x] CountGreaterThanX (`O(N)` Time / `O(1)` Space)
   - [ ] CountLessThanX (`O(N)` Time / `O(1)` Space)
   - [x] FindFirstPositive (`O(N)` Time / `O(1)` Space)
   - [x] FindLastNegative (`O(N)` Time / `O(1)` Space)
