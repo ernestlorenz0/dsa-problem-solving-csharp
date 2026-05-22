@@ -23,7 +23,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
 
 ### 📁 Day2 (Lists Collection)
 * **Day 2: Linear Traversal Drills (Lists)**
-  - [ ] 01_SumOfEvens (`O(N)` Time / `O(1)` Space)
+  - [x] 01_SumOfEvens (`O(N)` Time / `O(1)` Space)
   - [x] 02_SumOfOdds (`O(N)` Time / `O(1)` Space)
   - [ ] 03_CountGreaterThanX (`O(N)` Time / `O(1)` Space)
   - [ ] 04_CountLessThanX (`O(N)` Time / `O(1)` Space)
