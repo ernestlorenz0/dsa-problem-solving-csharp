@@ -16,9 +16,9 @@ if (result.HasValue)
 else Console.WriteLine("There has no even number in the list");
 
 
-private static int? FindFirstEven(List<int> nums)
+public static int? FindFirstEven(List<int> nums)
 {
-    if (nums == null || nums.Count == 0)
+    if (nums == null)
     {
         throw new ArgumentNullException(nameof(nums), "List cannot be null");
     }
