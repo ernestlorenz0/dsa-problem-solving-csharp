@@ -21,8 +21,8 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] SearchElement (`O(N)` Time / `O(1)` Space)
   - [x] SumOfElements (`O(N)` Time / `O(1)` Space)
 
-### 📁 Day2 (Lists Collection)
-* **Day 2: Linear Traversal Drills (Lists)**
+  ### 📁 02_Lists
+  * **Day 2: Linear Traversal Drills (Lists)**
   - [x] SumOfEvens (`O(N)` Time / `O(1)` Space)
   - [x] SumOfOdds (`O(N)` Time / `O(1)` Space)
   - [x] CountGreaterThanX (`O(N)` Time / `O(1)` Space)
@@ -33,3 +33,4 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] CheckAnyNegative (`O(N)` Time / `O(1)` Space)
   - [x] FrequencyOfEvens (`O(N)` Time / `O(1)` Space)
   - [x] ConditionalMax (`O(N)` Time / `O(1)` Space)
+
