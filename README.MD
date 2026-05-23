@@ -36,7 +36,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
 
 ### 📁 03_Mixed_Linear_Traversal
 * **Day 3: State Tracking & Early Exits (Arrays/Lists)**
-  - [ ] CountZeros (`O(N)` Time / `O(1)` Space)
+  - [x] CountZeros (`O(N)` Time / `O(1)` Space)
   - [ ] SumUntilNegative (`O(N)` Time / `O(1)` Space)
   - [ ] FindIndexOfMax (`O(N)` Time / `O(1)` Space)
   - [ ] FindIndexOfMin (`O(N)` Time / `O(1)` Space)
