@@ -19,7 +19,6 @@ int? SumOfMultiples(List<int> nums, int x)
     // S - Specific Exception
     if (nums == null) throw new ArgumentNullException(nameof(nums), "List cannot be null");
     
-    // Safety check for X (Cannot divide by 0)
     if (x == 0) throw new ArgumentException("X cannot be zero", nameof(x));
 
     int sum = 0;

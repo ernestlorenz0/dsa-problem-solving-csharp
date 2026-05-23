@@ -3,7 +3,7 @@
 My practical journey mastering Data Structures and Algorithms and Problem Solving from scratch using C# scripts (.csx). 
 
 ## 📊 Progress Tracker
-- **Total Problems Solved:** 20 / 30 (Day 3)
+- **Total Problems Solved:** 30 / 30 (Day 3)
 - **Focus:** Brute-force logic first, optimizing later.
 
 ## 🗺️ Repository Map
