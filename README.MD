@@ -44,5 +44,5 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] CheckDecreasing (`O(N)` Time / `O(1)` Space)
   - [x] CountEqualToX (`O(N)` Time / `O(1)` Space)
   - [ ] SumOfMultiples (`O(N)` Time / `O(1)` Space)
-  - [ ] FindFirstEven (`O(N)` Time / `O(1)` Space)
+  - [x] FindFirstEven (`O(N)` Time / `O(1)` Space)
   - [ ] FindLastOdd (`O(N)` Time / `O(1)` Space)
