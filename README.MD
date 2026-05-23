@@ -39,7 +39,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] CountZeros (`O(N)` Time / `O(1)` Space)
   - [ ] SumUntilNegative (`O(N)` Time / `O(1)` Space)
   - [x] FindIndexOfMax (`O(N)` Time / `O(1)` Space)
-  - [ ] FindIndexOfMin (`O(N)` Time / `O(1)` Space)
+  - [x] FindIndexOfMin (`O(N)` Time / `O(1)` Space)
   - [x] CheckIncreasing (`O(N)` Time / `O(1)` Space)
   - [x] CheckDecreasing (`O(N)` Time / `O(1)` Space)
   - [x] CountEqualToX (`O(N)` Time / `O(1)` Space)
