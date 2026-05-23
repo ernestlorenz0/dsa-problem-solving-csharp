@@ -41,7 +41,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [ ] FindIndexOfMax (`O(N)` Time / `O(1)` Space)
   - [ ] FindIndexOfMin (`O(N)` Time / `O(1)` Space)
   - [ ] CheckIncreasing (`O(N)` Time / `O(1)` Space)
-  - [ ] CheckDecreasing (`O(N)` Time / `O(1)` Space)
+  - [x] CheckDecreasing (`O(N)` Time / `O(1)` Space)
   - [ ] CountEqualToX (`O(N)` Time / `O(1)` Space)
   - [ ] SumOfMultiples (`O(N)` Time / `O(1)` Space)
   - [ ] FindFirstEven (`O(N)` Time / `O(1)` Space)
