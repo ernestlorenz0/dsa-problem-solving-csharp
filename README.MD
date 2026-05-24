@@ -46,3 +46,11 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] SumOfMultiples (`O(N)` Time / `O(1)` Space)
   - [x] FindFirstEven (`O(N)` Time / `O(1)` Space)
   - [x] FindLastOdd (`O(N)` Time / `O(1)` Space)
+
+### 📁 04_Nested_Loops
+* **Day 4: Nested Loop Drills (Arrays/Lists)**
+  - [ ] PairSum (`O(N^2)` Time / `O(N^2)` Space)
+  - [ ] PairDifference (`O(N^2)` Time / `O(N^2)` Space)
+  - [ ] DuplicateFinder (`O(N^2)` Time / `O(1)` Space)
+  - [ ] UniquePairs (`O(N^2)` Time / `O(1)` Space)
+  - [ ] MaxPairSum (`O(N^2)` Time / `O(1)` Space)
