@@ -53,8 +53,8 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] PairDifference (`O(N^2)` Time / `O(N^2)` Space)
 
 * **Day 5: Nested Loop Drills (Arrays/Lists)**
-  - [ ] DuplicateFinder (`O(N^2)` Time / `O(1)` Space)
-  - [ ] UniquePairs (`O(N^2)` Time / `O(1)` Space)
+  - [x] DuplicateFinder (`O(N^2)` Time / `O(1)` Space)
+  - [x] MaxPairSum (`O(N^2)` Time / `O(1)` Space)
 
 * **Day 6: Nested Loop Drills (Arrays/Lists)**
-  - [ ] MaxPairSum (`O(N^2)` Time / `O(1)` Space)
+  - [ ] UniquePairs (`O(N^2)` Time / `O(1)` Space)
