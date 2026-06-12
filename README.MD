@@ -57,6 +57,6 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] MaxPairSum (`O(N^2)` Time / `O(1)` Space)
 
 * **Day 6: Nested Loop Drills (Arrays/Lists)**
-  - [] UniquePairs (`O(N^2)` Time / `O(1)` Space)
+  - [x] UniquePairs (`O(N^2)` Time / `O(1)` Space)
   - [x] MinPairSum (`O(N^2)` Time / `O(1)` Space)
 
