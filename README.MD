@@ -60,3 +60,22 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] UniquePairs (`O(N^2)` Time / `O(1)` Space)
   - [x] MinPairSum (`O(N^2)` Time / `O(1)` Space)
 
+
+### 📁 02_HashingPattern
+
+* [ ] Two Sum
+* [ ] Contains Duplicate
+* [ ] Unique Elements
+* [ ] Frequency Count
+* [ ] First Non-Repeating
+* [ ] Intersection of Arrays
+* [ ] Union of Arrays
+* [ ] Majority Element
+* [ ] Anagram Check
+* [ ] Subarray Sum Equals K
+* [ ] Longest Consecutive Sequence
+* [ ] Pair Product
+* [ ] Find Missing Number
+* [ ] Find Duplicate Number
+* [ ] Group Elements by Frequency
+
