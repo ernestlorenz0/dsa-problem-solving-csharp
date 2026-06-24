@@ -3,11 +3,11 @@
 My practical journey mastering Data Structures and Algorithms and Problem Solving from scratch using C# scripts (.csx). 
 
 ## 📊 Progress Tracker
-- **Total Problems Solved:** 30 / 30 
+- **Total Problems Solved:** 36 / 51
 
 ## 🗺️ Repository Map
 
-### 📁 01_Arrays
+### 📁 01_Linear Scan Patterns
   - [x] ConditionalSum 
   - [x] CountEvens 
   - [x] CountPositives 
@@ -18,8 +18,6 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] MaxDifference   
   - [x] SearchElement   
   - [x] SumOfElements   
-
-### 📁 02_Lists
   - [x] SumOfEvens   
   - [x] SumOfOdds   
   - [x] CountGreaterThanX   
@@ -30,8 +28,6 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] CheckAnyNegative   
   - [x] FrequencyOfEvens   
   - [x] ConditionalMax   
-
-### 📁 03_Mixed_Linear_Traversal
   - [x] CountZeros   
   - [x] SumUntilNegative   
   - [x] FindIndexOfMax   
@@ -43,7 +39,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] FindFirstEven   
   - [x] FindLastOdd 
 
-### 📁 04_Nested_Loops
+### 📁 02_Pairwise Patterns (Brute Force)
   - [x] PairSum 
   - [x] PairDifference 
   - [x] DuplicateFinder 
@@ -52,8 +48,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] MinPairSum 
 
 
-### 📁 02_HashingPattern
-
+### 📁 03_HashingPattern
 * [ ] Two Sum
 * [ ] Contains Duplicate
 * [ ] Unique Elements
