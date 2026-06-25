@@ -8,6 +8,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
 ## 🗺️ Repository Map
 
 ### 📁 01_Linear Scan Patterns
+
   - [x] ConditionalSum 
   - [x] CountEvens 
   - [x] CountPositives 
@@ -40,6 +41,7 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
   - [x] FindLastOdd 
 
 ### 📁 02_Pairwise Patterns (Brute Force)
+
   - [x] PairSum 
   - [x] PairDifference 
   - [x] DuplicateFinder 
@@ -49,9 +51,10 @@ My practical journey mastering Data Structures and Algorithms and Problem Solvin
 
 
 ### 📁 03_HashingPattern
-* [ ] Two Sum
-* [ ] Contains Duplicate
-* [ ] Unique Elements
+
+* [x] Two Sum
+* [x] Contains Duplicate
+* [x] Unique Elements
 * [ ] Frequency Count
 * [ ] First Non-Repeating
 * [ ] Intersection of Arrays
