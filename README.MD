@@ -3,7 +3,7 @@
 My practical journey mastering Data Structures and Algorithms and Problem Solving from scratch using C# scripts (.csx). 
 
 ## 📊 Progress Tracker
-- **Total Problems Solved:** 36 / 51
+- **Total Problems Solved:** 39 / 51
 
 ## 🗺️ Repository Map
 
